@@ -17,3 +17,5 @@ This project uses **OpenCV**, **Mediapipe**, and **PyAutoGUI** to control keyboa
 - Swipe Up → Up Arrow
 - Swipe Down → Down Arrow
 
+**Thank you**
+
