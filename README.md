@@ -1,8 +1,5 @@
-# GestureController
+# SubWay Gesture Controller
 Control keyboard with hand gestures using Python, OpenCV, Mediapipe, and PyAutoGUI
-
-
-# Gesture Controller
 
 This project uses **OpenCV**, **Mediapipe**, and **PyAutoGUI** to control keyboard inputs using hand gestures.
 
